@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "docker-on-macos-silicon",
+      "path": "macos/docker-on-macos-silicon.md"
+    },
+    {
       "basename": "datree",
       "path": "tools/datree.md"
     },

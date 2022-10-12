@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tools/datree.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/datree.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/datree.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,19 +125,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/datree.md"
+                "file": "README.md"
               }
             }
+          },
+          {
+            "id": "9689a25ccda64899",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b171c5ebf19fc8a8",
+  "active": "444524a56ba3188d",
   "lastOpenFiles": [
+    "macos/docker-on-macos-silicon.md",
+    "README.md",
+    "tools/datree.md",
     "tools/certutil.md",
     "tools/bitwarden.md",
     "tools/ansible-playbook.md",
