@@ -1,0 +1,30 @@
+{
+  "recentFiles": [
+    {
+      "basename": "datree",
+      "path": "tools/datree.md"
+    },
+    {
+      "basename": "certutil",
+      "path": "tools/certutil.md"
+    },
+    {
+      "basename": "bitwarden",
+      "path": "tools/bitwarden.md"
+    },
+    {
+      "basename": "ansible-playbook",
+      "path": "tools/ansible-playbook.md"
+    },
+    {
+      "basename": "sqlite",
+      "path": "databases/sqlite.md"
+    },
+    {
+      "basename": "postgres",
+      "path": "databases/postgres.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

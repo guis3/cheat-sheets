@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "c846fc18ff48ec59",
+    "type": "split",
+    "children": [
+      {
+        "id": "b171c5ebf19fc8a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tools/datree.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef4115621b530fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc08737b4bbfa7a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "895aa57098f2b254",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bc1c689dddee769",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "118ab7bb231b903a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d93e77072c76419",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "f0cca072664b665c",
+    "type": "split",
+    "children": [
+      {
+        "id": "418e8e78bfc53058",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "444524a56ba3188d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tools/datree.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa7c957de6484ed2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tools/datree.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d29a64874a40ad9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "079c8b7d9fd70309",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tools/datree.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b171c5ebf19fc8a8",
+  "lastOpenFiles": [
+    "tools/certutil.md",
+    "tools/bitwarden.md",
+    "tools/ansible-playbook.md",
+    "databases/sqlite.md",
+    "databases/postgres.md",
+    "databases/mariadb.md",
+    "databases/mysql.md"
+  ]
+}
