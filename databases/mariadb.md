@@ -9,7 +9,7 @@ sudo mysql_secure_installation
 
 ## Access Database from outside
 Open `/etc/mysql/mariadb.conf.d/50-server.cnf` and change the `bind-address` to:
-```
+```cnf
 ...
 
 bind-address = 0.0.0.0

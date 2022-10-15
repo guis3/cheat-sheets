@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Iceberg"
+  "cssTheme": "Iceberg",
+  "translucency": false,
+  "baseFontSize": 15,
+  "accentColor": ""
 }

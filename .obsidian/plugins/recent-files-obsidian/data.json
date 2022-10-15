@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "docker-on-macos-silicon",
-      "path": "macos/docker-on-macos-silicon.md"
+      "basename": "openssh",
+      "path": "tools/openssh.md"
     },
     {
       "basename": "datree",
       "path": "tools/datree.md"
     },
     {
-      "basename": "certutil",
-      "path": "tools/certutil.md"
+      "basename": "git",
+      "path": "tools/git.md"
+    },
+    {
+      "basename": "helm",
+      "path": "tools/helm.md"
+    },
+    {
+      "basename": "iterm2",
+      "path": "tools/iterm2.md"
+    },
+    {
+      "basename": "nmap",
+      "path": "tools/nmap.md"
+    },
+    {
+      "basename": "openssl",
+      "path": "tools/openssl.md"
+    },
+    {
+      "basename": "starship",
+      "path": "tools/starship.md"
+    },
+    {
+      "basename": "terraform",
+      "path": "tools/terraform.md"
+    },
+    {
+      "basename": "vagrant",
+      "path": "tools/vagrant.md"
+    },
+    {
+      "basename": "vscode",
+      "path": "tools/vscode.md"
+    },
+    {
+      "basename": "wsl",
+      "path": "tools/wsl.md"
     },
     {
       "basename": "bitwarden",
@@ -25,12 +57,60 @@
       "path": "tools/ansible-playbook.md"
     },
     {
-      "basename": "sqlite",
-      "path": "databases/sqlite.md"
+      "basename": "ansible",
+      "path": "tools/ansible.md"
+    },
+    {
+      "basename": "certutil",
+      "path": "tools/certutil.md"
+    },
+    {
+      "basename": "ssl-certs",
+      "path": "misc/ssl-certs.md"
+    },
+    {
+      "basename": "docker",
+      "path": "docker/docker.md"
+    },
+    {
+      "basename": "docker-compose",
+      "path": "docker/docker-compose.md"
+    },
+    {
+      "basename": "user",
+      "path": "linux/user.md"
+    },
+    {
+      "basename": "http-status-codes",
+      "path": "misc/http-status-codes.md"
+    },
+    {
+      "basename": "linuxbasics",
+      "path": "linux/linuxbasics.md"
     },
     {
       "basename": "postgres",
       "path": "databases/postgres.md"
+    },
+    {
+      "basename": "mysql",
+      "path": "databases/mysql.md"
+    },
+    {
+      "basename": "mariadb",
+      "path": "databases/mariadb.md"
+    },
+    {
+      "basename": "docker-on-macos-silicon",
+      "path": "macos/docker-on-macos-silicon.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "sqlite",
+      "path": "databases/sqlite.md"
     }
   ],
   "omittedPaths": [],

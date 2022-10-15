@@ -1,5 +1,25 @@
 # OpenSSH Cheat-Sheet
 
+## SSH Keys
+
+### Generate ssh keypair
+This keypair will be placed in ~/.ssh/ by default. Two files will be created: id_rsa (private key) and id_rsa.pub (public key).
+```shell
+ssh-keygen
+```
+> [!warning]
+> Do not share your private key with anyone!
+
+### Copy public key to server
+Copy the public key to any server you want to ssh into.
+```shell
+scp .ssh/id_rsa.pub user@server:~/id_rsa.pub
+```
+On the server, cat the public key's content to .ssh/autohrized_keys.
+```shell
+cat id_rsa.pub > .ssh/authorized_keys
+```
+
 ## Known Hosts
 
 Remove Entry from the Known-Hosts File.
