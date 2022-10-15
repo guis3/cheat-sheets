@@ -1,0 +1,23 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://www.google.com/search?&q={{query}}",
+      "name": "Google",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://en.wikipedia.org/wiki/Special:Search/{{query}}",
+      "name": "Wikipedia",
+      "encode": true
+    },
+    {
+      "name": "Duckduckgo",
+      "query": "https://www.duckduckgo.com/?q={{query}}",
+      "tags": [],
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}

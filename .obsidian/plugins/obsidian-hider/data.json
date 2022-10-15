@@ -1,5 +1,5 @@
 {
-  "frameless": true,
+  "frameless": false,
   "hideRibbon": false,
   "hideStatus": false,
   "hideScroll": false,
@@ -7,5 +7,5 @@
   "hideSearchSuggestions": false,
   "hideInstructions": false,
   "hideMeta": false,
-  "hideVault": false
+  "hideVault": true
 }

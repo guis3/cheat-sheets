@@ -5,6 +5,30 @@
       "path": "tools/openssh.md"
     },
     {
+      "basename": "Symbolic Links",
+      "path": "linux/Symbolic Links.md"
+    },
+    {
+      "basename": "mount",
+      "path": "linux/mount.md"
+    },
+    {
+      "basename": "linuxbasics",
+      "path": "linux/linuxbasics.md"
+    },
+    {
+      "basename": "linux",
+      "path": "linux/linux.md"
+    },
+    {
+      "basename": "nfs",
+      "path": "linux/nfs.md"
+    },
+    {
+      "basename": "sed",
+      "path": "linux/sed.md"
+    },
+    {
       "basename": "datree",
       "path": "tools/datree.md"
     },
@@ -83,10 +107,6 @@
     {
       "basename": "http-status-codes",
       "path": "misc/http-status-codes.md"
-    },
-    {
-      "basename": "linuxbasics",
-      "path": "linux/linuxbasics.md"
     },
     {
       "basename": "postgres",
