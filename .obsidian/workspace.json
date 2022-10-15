@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/openssh.md",
+                "file": "linux/Symbolic Links.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/openssh.md",
+                "file": "linux/Symbolic Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/openssh.md",
+                "file": "linux/Symbolic Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/openssh.md"
+                "file": "linux/Symbolic Links.md"
               }
             }
           },
@@ -162,22 +162,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 253.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b171c5ebf19fc8a8",
+  "active": "9689a25ccda64899",
   "lastOpenFiles": [
-    "linux/Symbolic Links.md",
+    "apps/portainer.md",
+    "tools/starship.md",
     "tools/openssh.md",
+    "linux/Symbolic Links.md",
     "linux/mount.md",
     "linux/linuxbasics.md",
     "linux/linux.md",
     "linux/nfs.md",
     "linux/sed.md",
-    "tools/datree.md",
-    "tools/git.md",
-    "tools/helm.md"
+    "tools/datree.md"
   ]
 }

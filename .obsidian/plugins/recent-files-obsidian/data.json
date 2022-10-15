@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "openssh",
-      "path": "tools/openssh.md"
-    },
-    {
       "basename": "Symbolic Links",
       "path": "linux/Symbolic Links.md"
+    },
+    {
+      "basename": "portainer",
+      "path": "apps/portainer.md"
+    },
+    {
+      "basename": "starship",
+      "path": "tools/starship.md"
+    },
+    {
+      "basename": "openssh",
+      "path": "tools/openssh.md"
     },
     {
       "basename": "mount",
@@ -51,10 +59,6 @@
     {
       "basename": "openssl",
       "path": "tools/openssl.md"
-    },
-    {
-      "basename": "starship",
-      "path": "tools/starship.md"
     },
     {
       "basename": "terraform",
@@ -119,10 +123,6 @@
     {
       "basename": "mariadb",
       "path": "databases/mariadb.md"
-    },
-    {
-      "basename": "docker-on-macos-silicon",
-      "path": "macos/docker-on-macos-silicon.md"
     },
     {
       "basename": "README",
