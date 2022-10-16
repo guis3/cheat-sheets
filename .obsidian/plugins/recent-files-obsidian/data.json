@@ -5,8 +5,20 @@
       "path": "tools/git.md"
     },
     {
+      "basename": "docker",
+      "path": "docker/docker.md"
+    },
+    {
       "basename": "openssh",
       "path": "tools/openssh.md"
+    },
+    {
+      "basename": "certutil",
+      "path": "tools/certutil.md"
+    },
+    {
+      "basename": "datree",
+      "path": "tools/datree.md"
     },
     {
       "basename": "openssl",
@@ -43,10 +55,6 @@
     {
       "basename": "sed",
       "path": "linux/sed.md"
-    },
-    {
-      "basename": "datree",
-      "path": "tools/datree.md"
     },
     {
       "basename": "helm",
@@ -89,16 +97,8 @@
       "path": "tools/ansible.md"
     },
     {
-      "basename": "certutil",
-      "path": "tools/certutil.md"
-    },
-    {
       "basename": "ssl-certs",
       "path": "misc/ssl-certs.md"
-    },
-    {
-      "basename": "docker",
-      "path": "docker/docker.md"
     },
     {
       "basename": "docker-compose",
