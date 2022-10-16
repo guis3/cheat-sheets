@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "git",
+      "path": "tools/git.md"
+    },
+    {
       "basename": "openssh",
       "path": "tools/openssh.md"
     },
     {
       "basename": "docker",
       "path": "docker/docker.md"
-    },
-    {
-      "basename": "git",
-      "path": "tools/git.md"
     },
     {
       "basename": "user",
@@ -139,10 +143,6 @@
     {
       "basename": "mariadb",
       "path": "databases/mariadb.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "sqlite",

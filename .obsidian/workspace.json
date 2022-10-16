@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/git.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/openssh.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/openssh.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/openssh.md"
+                "file": "README.md"
               }
             }
           },
@@ -187,11 +188,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9cd675888c186068",
+  "active": "895aa57098f2b254",
   "lastOpenFiles": [
-    "docker/docker.md",
     "tools/git.md",
     "tools/openssh.md",
+    "docker/docker.md",
     "linux/user.md",
     "linux/ufw.md",
     "linux/Symbolic Links.md",
