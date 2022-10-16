@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "git",
+      "path": "tools/git.md"
+    },
+    {
+      "basename": "openssh",
+      "path": "tools/openssh.md"
+    },
+    {
+      "basename": "openssl",
+      "path": "tools/openssl.md"
+    },
+    {
       "basename": "Symbolic Links",
       "path": "linux/Symbolic Links.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "starship",
       "path": "tools/starship.md"
-    },
-    {
-      "basename": "openssh",
-      "path": "tools/openssh.md"
     },
     {
       "basename": "mount",
@@ -41,10 +49,6 @@
       "path": "tools/datree.md"
     },
     {
-      "basename": "git",
-      "path": "tools/git.md"
-    },
-    {
       "basename": "helm",
       "path": "tools/helm.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "nmap",
       "path": "tools/nmap.md"
-    },
-    {
-      "basename": "openssl",
-      "path": "tools/openssl.md"
     },
     {
       "basename": "terraform",

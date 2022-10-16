@@ -29,6 +29,14 @@ Remove Entry from the Known-Hosts File.
 ssh-keygen -R hostname
 ```
 
+## Copy File Over SSH
+
+Copy a file from host machine to SSH host.
+
+```shell
+scp file user@hostname:/path/to/copy/to
+```
+
 ## Using the SSH Config File
 
 If you are regularly connecting to multiple remote systems over SSH, you can configure your remote servers with the `.ssh/config` file.
