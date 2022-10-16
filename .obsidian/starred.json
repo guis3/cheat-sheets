@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "git",
+      "path": "tools/git.md"
+    },
+    {
+      "type": "file",
+      "title": "openssh",
+      "path": "tools/openssh.md"
+    },
+    {
+      "type": "file",
+      "title": "docker",
+      "path": "docker/docker.md"
+    }
+  ]
+}

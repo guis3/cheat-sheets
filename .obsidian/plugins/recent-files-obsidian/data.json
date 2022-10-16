@@ -1,40 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "git",
-      "path": "tools/git.md"
+      "basename": "openssh",
+      "path": "tools/openssh.md"
     },
     {
       "basename": "docker",
       "path": "docker/docker.md"
     },
     {
-      "basename": "openssh",
-      "path": "tools/openssh.md"
+      "basename": "git",
+      "path": "tools/git.md"
     },
     {
-      "basename": "certutil",
-      "path": "tools/certutil.md"
+      "basename": "user",
+      "path": "linux/user.md"
     },
     {
-      "basename": "datree",
-      "path": "tools/datree.md"
-    },
-    {
-      "basename": "openssl",
-      "path": "tools/openssl.md"
+      "basename": "ufw",
+      "path": "linux/ufw.md"
     },
     {
       "basename": "Symbolic Links",
       "path": "linux/Symbolic Links.md"
     },
     {
-      "basename": "portainer",
-      "path": "apps/portainer.md"
+      "basename": "sed",
+      "path": "linux/sed.md"
     },
     {
-      "basename": "starship",
-      "path": "tools/starship.md"
+      "basename": "nfs",
+      "path": "linux/nfs.md"
     },
     {
       "basename": "mount",
@@ -49,12 +45,36 @@
       "path": "linux/linux.md"
     },
     {
-      "basename": "nfs",
-      "path": "linux/nfs.md"
+      "basename": "iptables",
+      "path": "linux/iptables.md"
     },
     {
-      "basename": "sed",
-      "path": "linux/sed.md"
+      "basename": "grep",
+      "path": "linux/grep.md"
+    },
+    {
+      "basename": "awk",
+      "path": "linux/awk.md"
+    },
+    {
+      "basename": "certutil",
+      "path": "tools/certutil.md"
+    },
+    {
+      "basename": "datree",
+      "path": "tools/datree.md"
+    },
+    {
+      "basename": "openssl",
+      "path": "tools/openssl.md"
+    },
+    {
+      "basename": "portainer",
+      "path": "apps/portainer.md"
+    },
+    {
+      "basename": "starship",
+      "path": "tools/starship.md"
     },
     {
       "basename": "helm",
@@ -103,10 +123,6 @@
     {
       "basename": "docker-compose",
       "path": "docker/docker-compose.md"
-    },
-    {
-      "basename": "user",
-      "path": "linux/user.md"
     },
     {
       "basename": "http-status-codes",
