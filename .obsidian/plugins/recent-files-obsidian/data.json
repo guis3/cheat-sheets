@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "openssh",
+      "path": "tools/openssh.md"
     },
     {
       "basename": "git",
       "path": "tools/git.md"
     },
     {
-      "basename": "openssh",
-      "path": "tools/openssh.md"
+      "basename": "VMWare ESXi",
+      "path": "Virtualisation/VMWare ESXi.md"
     },
     {
       "basename": "docker",
-      "path": "docker/docker.md"
+      "path": "Virtualisation/docker/docker.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "user",
@@ -126,7 +130,7 @@
     },
     {
       "basename": "docker-compose",
-      "path": "docker/docker-compose.md"
+      "path": "Virtualisation/docker/docker-compose.md"
     },
     {
       "basename": "http-status-codes",
