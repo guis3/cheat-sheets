@@ -18,9 +18,14 @@ ssh-keygen
 Copy the public key to any server you want to ssh into.
 
 ```shell
-ssh-copy-id user@hostname
+ssh-copy-id <user>@<hostname>
 ```
 
+Windows equivalent.
+
+```shell
+cat ~/.ssh./id_rsa.pub | ssh <user>@<hostname> "cat >> ~/.ssh.authorized_keys"
+```
 ## Known Hosts
 
 Remove Entry from the Known-Hosts File.
@@ -34,7 +39,7 @@ ssh-keygen -R hostname
 Copy a file from host machine to SSH host.
 
 ```shell
-scp file user@hostname:/path/to/copy/to
+scp file <user>@<hostname>:/path/to/copy/to
 ```
 
 ## Using the SSH Config File
